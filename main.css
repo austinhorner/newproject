@@ -1,0 +1,57 @@
+body {
+	font-family: Bauhaus 93 Regular;
+	background-color: rgba(192,192,192,0.8);
+}
+
+#mid {
+	margin: auto;
+	width: 800px;
+	background-color: white;
+}
+
+#mid > div {
+	width: 100%;
+}
+
+.header > h1 {
+	top: 20px;
+	float: right;
+	padding-right: 20px;
+}
+
+tr > th {
+	width: 200px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	font-weight: 600;
+}
+
+p {
+	padding: 20px;
+	text-align: center;
+}
+
+img {
+	margin: auto;
+	display: block;
+	max-width: 100%;
+}
+
+strong {
+	font-weight: 1000;
+}
+
+li {
+	margin: auto;
+	display: block;
+	text-align: center;
+}
+
+font-size:30px;cursor:pointer
