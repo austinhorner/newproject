@@ -13,6 +13,14 @@ body {
 	width: 100%;
 }
 
+#pic {
+	background: url("dad.jpg") no-repeat center 25%;
+}
+
+#link {
+	background-image: url("pic.jpg");
+}
+
 .header > h1 {
 	top: 20px;
 	float: right;
@@ -31,11 +39,11 @@ h1 {
 
 h2 {
 	font-weight: 600;
+	text-align: center;
 }
 
 p {
 	padding: 20px;
-	text-align: center;
 }
 
 img {
@@ -51,7 +59,5 @@ strong {
 li {
 	margin: auto;
 	display: block;
-	text-align: center;
+	text-shadow: 2px 2px 8px #DCDCDC;
 }
-
-font-size:30px;cursor:pointer
